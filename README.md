@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Country Data](Country-data.csv)
+- Dataset source: [Unsupervised Learning on Country Data](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data) by Rohan0301
 - Scikit-learn documentation for clustering algorithms
 - Yellowbrick for model selection visualization
 
@@ -182,9 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, please feel free to reach out:
 
-- Email: your.email@example.com
+- Email: gregoriusreynaldi@gmail.com
 - GitHub Issues: [Create an issue](https://github.com/GregReynaldi/country-data-clustering-simple/issues)
 
 ---
-
-⭐ **Star this repository if you found it helpful!**
